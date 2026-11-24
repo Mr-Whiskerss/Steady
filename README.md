@@ -229,6 +229,3 @@ All endpoints take and return JSON.
 Issues and pull requests are welcome. The app is deliberately small: one Python file, one HTML
 file, and two dependencies. Please keep it that way where you can, and keep the interface calm.
 
-## License
-
-[MIT](LICENSE)
