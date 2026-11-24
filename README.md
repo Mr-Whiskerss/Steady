@@ -13,10 +13,6 @@
   <img alt="Google Keep import" src="https://img.shields.io/badge/import-Google%20Keep-D9A92C">
 </p>
 
-<p align="center">
-  <img src="docs/screenshots/projects.png" alt="Steady's projects page: six projects, each with a segmented progress bar showing how many tasks are done" width="820">
-</p>
-
 Steady is for people with a lot of lists on the go who want to see where everything is up to
 without feeling buried by it. Every project shows its progress as a row of blocks, one per task,
 so you can see at a glance that the garage clear-out is one of four and the homelab is three of six.
@@ -69,10 +65,6 @@ all your notes, and Steady reads that file as-is.
 3. In Steady, open **Import and settings** and choose the .zip. There's no need to unzip it.
 4. Choose which notes to bring in, and whether each one is Active, Someday, Finished or Archived.
 
-<p align="center">
-  <img src="docs/screenshots/keep-import.png" alt="The Google Keep import screen listing notes with checkboxes and a status for each" width="720">
-</p>
-
 How notes come across:
 
 | In Google Keep | In Steady |
@@ -87,20 +79,6 @@ How notes come across:
 
 Importing the same Takeout file again skips notes you've already brought in. Images and drawings
 attached to notes aren't imported.
-
-## Screenshots
-
-| Today | Focus on one thing |
-| --- | --- |
-| <img src="docs/screenshots/today.png" alt="The Today list with three tasks and ideas for today" width="400"> | <img src="docs/screenshots/focus.png" alt="Focus mode showing a single task with its steps" width="400"> |
-
-| A project | Brain dump inbox |
-| --- | --- |
-| <img src="docs/screenshots/project.png" alt="A project page with its progress bar and tasks" width="400"> | <img src="docs/screenshots/inbox.png" alt="The inbox with a brain dump box" width="400"> |
-
-<p align="center">
-  <img src="docs/screenshots/mobile-dark.png" alt="Steady's Today page on a phone in dark mode" width="240">
-</p>
 
 ## Installation
 
